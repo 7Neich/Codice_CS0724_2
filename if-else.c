@@ -22,5 +22,6 @@ int main()
     {
         printf("\n Hai appena sbloccato una gemma dell'infinito!Ma C è Thanos e ti prende a schiaffi lo stesso");
     }
+    
     return 0;
 }
